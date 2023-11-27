@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Nov 2023 16:33:32 at https://asbl.in/spectra/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://asbl.in/spectra/ -O1 "E:\websitecloning\Asblspectra" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://asbl.in/spectra/)
+16:33:44	Error: 	"Forbidden" (403) at link https://asbl.in/spectra/plan/ (from https://asbl.in/spectra/)
+16:33:45	Error: 	"Forbidden" (403) at link https://asbl.in/spectra/plan/?scroll=unit-plan&token=0 (from https://asbl.in/spectra/)
+16:33:46	Error: 	"Forbidden" (403) at link https://asbl.in/spectra/plan/?scroll=outdoor-living&token=0 (from https://asbl.in/spectra/)
+16:33:48	Error: 	"Forbidden" (403) at link https://asbl.in/spectra/plan/?scroll=master-plan&token=0 (from https://asbl.in/spectra/)
+16:33:49	Error: 	"Forbidden" (403) at link https://asbl.in/spectra/plan/?scroll=tower-plan&token=0 (from https://asbl.in/spectra/)
+16:33:55	Error: 	"Forbidden" (403) at link https://asbl.in/spectra/price/ (from https://asbl.in/spectra/)
+16:34:00	Error: 	"Forbidden" (403) at link https://asbl.in/spectra/specifications/ (from https://asbl.in/spectra/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 76 links scanned, 67 files written (13836618 bytes overall) [2460779 bytes received at 45569 bytes/sec], 13818451 bytes transferred using HTTP compression in 73 files, ratio 17%, 17.8 requests per connection
+(8 errors, 0 warnings, 0 messages)
